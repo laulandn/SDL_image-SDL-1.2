@@ -1,0 +1,1 @@
+# SDL_image-SDL-1.2
